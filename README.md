@@ -1,2 +1,2 @@
-# Curso GuitHub
- Primeiro repositório feito no curso de GuiHub
+# Curso GitHub
+ Primeiro repositório feito no curso de Git e GitHub
